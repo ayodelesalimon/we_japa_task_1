@@ -1,4 +1,4 @@
-# taskw
+# We Japa Task 1
 
 ## Project setup
 ```
